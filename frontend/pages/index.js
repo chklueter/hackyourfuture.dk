@@ -18,6 +18,7 @@ export default () => {
     <Layout>
       <Head>
         <title>HackYourFuture Copenhagen</title>
+        <meta name="google-site-verification" content="LW2tNdDN8UHXLQDxENxSc_Jjt9I2F9YRWzgaV3FBnA0"/>
       </Head>
       <style jsx>
         {`
